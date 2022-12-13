@@ -1,0 +1,1 @@
+Used 3rd party app for building rooms out of the tileset and then exported the arrays created into my own game (.json holds the array and width/height of each room, as well as all the layers)
